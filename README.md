@@ -1,6 +1,10 @@
 # Welcome! 👋
 <!-- ## Hi there 👋 -->
 ### About Me
+
+- 🔭 I’m currently working at **SKY**
+
+
 <!--
 **bolismar69/bolismar69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
