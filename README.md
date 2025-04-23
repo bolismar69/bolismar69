@@ -1,9 +1,9 @@
 
 # Welcome! | Bem-vindo! 👋
 
-> Software Developer | Full-stack | AI Explorer | Oracle Siebel CRM Specialist
- 
 ### About Me | Sobre Mim - Francisco Oliveira
+> IT Specialist | Software Developer | Full-stack | AI Explorer | Oracle Siebel CRM Specialist
+
 
 - 🔭 Currently working at **SKY**  
   Atualmente trabalho na **SKY**
