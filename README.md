@@ -16,7 +16,8 @@
 - 🧠 Experienced in enterprise CRM platforms like **Oracle Siebel CRM**  
   Experiência com plataformas de CRM corporativas como o **Oracle Siebel CRM**
 - 📫 Contact me | Contato:  
-  [Email](mailto:bolismar69@gmail.com) | [LinkedIn - Francisco Oliveira](https://www.linkedin.com/in/francisco-oliveira-338572)
+  [Email](mailto:bolismar69@gmail.com) | [LinkedIn](https://www.linkedin.com/in/francisco-oliveira-338572)
+| [Instagram](https://www.instagram.com/bolismar69)
 
 ---
 
