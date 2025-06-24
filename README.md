@@ -43,6 +43,41 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
+<p align="left">
+  <!-- Frameworks & Linguagens -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+</p>
+
+<p align="left">
+  <!-- Estilo & UI -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge"/>
+  <img src="https://img.shields.io/badge/NativeWind-3B82F6?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind Badge"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-EF0078?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion Badge"/>
+</p>
+
+<p align="left">
+  <!-- Gerenciamento de Estado & API -->
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit Badge"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge"/>
+</p>
+
+<p align="left">
+  <!-- Formulários e Validação -->
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form Badge"/>
+  <img src="https://img.shields.io/badge/Yup-000000?style=for-the-badge&logo=yup&logoColor=white" alt="Yup Badge"/>
+</p>
+
+<p align="left">
+  <!-- Backend & Build -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge"/>
+  <img src="https://img.shields.io/badge/EAS_Build-000000?style=for-the-badge&logo=expo&logoColor=white" alt="EAS Build Badge"/>
+</p>
+
+---
 
 ### Enterprise Platforms | Plataformas Corporativas
 ![Siebel](https://img.shields.io/badge/Siebel-003366?style=for-the-badge&logo=oracle&logoColor=white)
