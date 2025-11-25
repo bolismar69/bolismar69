@@ -120,6 +120,15 @@
 
 ---
 
+### 🖥️ Operating Systems | Sistemas Operacionais
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![MS-DOS](https://img.shields.io/badge/MS--DOS-000000?style=for-the-badge&logo=ms-dos&logoColor=white)
+
+---
+
 ### 🏢 Enterprise Platforms | Plataformas Corporativas
 ![Siebel 6](https://img.shields.io/badge/Siebel%206-003366?style=for-the-badge&logo=oracle&logoColor=white)
 ![Siebel 7](https://img.shields.io/badge/Siebel%207-004A80?style=for-the-badge&logo=oracle&logoColor=white)
